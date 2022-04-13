@@ -13,7 +13,7 @@
 
 - Arrays y Objetos
 
-- API
+- APIs
 
 ## Programa de Desarrollo de Aplicaciones FullStack JAVASCRIPT
 
